@@ -83,14 +83,14 @@
 
 <h2>📊 GitHub 통계</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chasu9808&show_icons=true&theme=radical&locale=kr" alt="Chasu9808" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hansol418&show_icons=true&theme=radical&locale=kr" alt="hansol418" />
   <br />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chasu9808&theme=radical&locale=kr" alt="Chasu9808" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hansol418&theme=radical&locale=kr" alt="hansol418" />
 </p>
 
 ---
 
 <h2>📫 연락 방법</h2>
 <p align="center">
-  <a href="mailto:chasu9808@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="email" width="40" height="40"/></a>
+  <a href="mailto:hslee4954@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="email" width="40" height="40"/></a>
 </p>
