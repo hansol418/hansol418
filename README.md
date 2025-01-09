@@ -83,9 +83,9 @@
 
 <h2>📊 GitHub 통계</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hansol418&show_icons=true&theme=radical&locale=kr" alt="hansol418" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chasu9808&show_icons=true&theme=radical&locale=kr" alt="Chasu9808" />
   <br />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hansol418&theme=radical&locale=kr" alt="hansol418" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chasu9808&theme=radical&locale=kr" alt="Chasu9808" />
 </p>
 
 ---
