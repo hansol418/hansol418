@@ -1,5 +1,5 @@
-<h1 align="center">안녕하세요 👋, 저는 개발자 임채수입니다</h1>
-<h3 align="center">부산에서 열정과 도전정신으로 매일 성장하는 개발자입니다!</h3>
+<h1 align="center">안녕하세요 👋 저는 개발자 이한솔입니다</h1>
+<h3 align="center">고객의 니즈를 기술로 구현하고 확장 가능한 시스템을 구축하는 개발자입니다.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=FF5733&size=30&center=true&vCenter=true&width=500&lines=✨+제+GitHub에+오신+것을+환영합니다!+✨;🔥+열정과+창의력으로+코딩합니다!+🔥;🚀+재밌는+프로젝트+함께+만들어봐요!+🚀" alt="Typing SVG" />
@@ -12,8 +12,8 @@
 
 - **ToolWithMe**: 
   - **프로젝트 설명**: 공구에 대한 배경지식이 없는 사용자를 위해 공구 이미지를 분석하여 공구의 명칭, 사용법, 참고 영상을 보여주는 프로젝트입니다.
-  - **기술 스택**: SpringBoot, JavaScript, Python, Django, HTML/CSS, MariaDB, MongoDB
-  - **나의 역할**:
+  - **기술 스택**: Java, SpringBoot, Maria DB, HTML, CSS, JavaScript, Kotlin, AndroidStudio, Mongo DB, Python, Django
+  - **나의 역할**: 팀장
     - Python과 Selenium을 이용한 이미지 데이터 수집
     - ResNet을 활용한 머신러닝 모델 생성 (Google Colab 사용)
     - Django 기반의 이미지 분석 API 구축 및 SpringBoot와 통신
