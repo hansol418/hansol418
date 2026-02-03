@@ -85,7 +85,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hansol418&show_icons=true&theme=tokyonight&locale=kr"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansol418&theme=tokyonight&locale=kr"/>
+  <img src="https://streak-stats.demolab.com?user=hansol418&theme=tokyonight&locale=kr"/>
 </p>
 
 ---
