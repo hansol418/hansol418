@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 👋, 고객의 니즈를 기술로 구현하고 확장 가능한 시스템을 구축하는 개발자 이한솔입니다</h1>
+<h1 align="center">안녕하세요 👋 고객의 니즈를 기술로 구현하고<br> 확장 가능한 시스템을 구축하는 개발자 이한솔입니다</h1>
 <h3 align="center">LLM · RAG · LangGraph · Agent · 웹서비스 · 안드로이드 앱을 직접 설계, 구현하는 개발자입니다.</h3>
 
 <p align="center">
